@@ -1,4 +1,4 @@
-# 🎬 Netflix Movie Recommendation System
+# WatchNext AI |🎬 The Movie Recommendation System
 
 A hybrid movie recommendation system inspired by Netflix, built using collaborative filtering and machine learning techniques to predict user ratings and recommend movies.
 
